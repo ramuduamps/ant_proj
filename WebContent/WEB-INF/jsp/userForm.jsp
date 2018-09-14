@@ -28,8 +28,8 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="PLVD" />
-				<form:option value="2" label="PDTR" />
+				<form:option value="1" label="JAGAN" />
+				<form:option value="2" label="KODALI NANI" />
 				<form:option value="3" label="JMD" />
 				<form:option value="4" label="KMPL" />
 			</form:select></td>
